@@ -4,4 +4,4 @@
 
 ## Usage
 
-### Prerequisites
+## Prerequisites
