@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "deploy-previews": {
+    "exclude": ["releases/v1"]
+  }
+}
