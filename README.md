@@ -1,6 +1,5 @@
 # Getting Started
 
-## Usage
 
 ## Prerequisites
 
